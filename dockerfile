@@ -1,4 +1,4 @@
-FROM reactnativecommunity/react-native-android:6.2
+FROM reactnativecommunity/react-native-android:latest
 MAINTAINER antonio.a@rebaze.fr
 
 RUN    apt update \
